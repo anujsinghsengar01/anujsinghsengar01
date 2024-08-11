@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anuj Singh Sengar</h1>
 <h3 align="center">A passionate Student From INDIA🎶</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anujsinghsengar01&label=Profile%20views&color=0e75b6&style=flat" alt="anujsinghsengar01" /> </p>
 
@@ -13,15 +14,11 @@
 
 - 🤝 I’m looking for help with **....**
 
-- 👨‍💻 All of my projects are available at [COMING SOON](COMING SOON)
-
-- 📝 I regularly write articles on [....](....)
+- 👨‍💻 All of my projects are available at [COMING SOON]
 
 - 💬 Ask me about **Python , C language**
 
 - 📫 How to reach me **anujsinghsenger70@gmail.com**
-
-- 📄 Know about my experiences [....](....)
 
 - ⚡ Fun fact **I am Better**
 
