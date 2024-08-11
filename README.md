@@ -1,3 +1,4 @@
+![MasterHead](https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif) 
 <h1 align="center">Hi 👋, I'm Anuj Singh Sengar</h1>
 <h3 align="center">A passionate Student From INDIA🎶</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/29/12/98/29129842108c46684a26c427741db074.gif">
