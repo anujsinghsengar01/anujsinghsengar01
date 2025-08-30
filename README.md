@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Myself**
 
-- 🌱 I’m currently learning **Python , C language**
+- 🌱 I’m currently learning **Python , C languag , Java**
 
 - 👯 I’m looking to collaborate on **....**
 
@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [COMING SOON]
 
-- 💬 Ask me about **Python , C language**
+- 💬 Ask me about **Python , C language , JAVA**
 
 - 📫 How to reach me **anujsinghsenger70@gmail.com**
 
