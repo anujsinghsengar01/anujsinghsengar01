@@ -20,15 +20,13 @@
 
 - 🎓 B.Tech CSE — AI Specialization
 
-- ☕ Language - Advance Java Developer
-
-- 🧩 Data Structure Pro - 250+ LeetCode Problem Solved
+- 🧩 Data Structure - 250+ LeetCode Problem Solved
 
 - 👨‍💻 All of my projects are available at [COMING SOON]
 
 - 🚀 Built real stuff: BalanceBuddy, MiniDB
 
-- ⚙️ Backend - Java, Spring Boot, REST APIs, MySQL, MongoDB ,SupaBase
+- ⚙️ Backend - Java, Spring Boot, MySQL,MongoDB,SupaBase
 
 - 📫 How to reach me **anujsinghsenger70@gmail.com**
 
