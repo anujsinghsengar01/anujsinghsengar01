@@ -18,14 +18,14 @@
 
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/29/12/98/29129842108c46684a26c427741db074.gif">
 
-- 🎓 B.Tech CSE — AI Specialization 
-- ☕ Language - Advance Java Developer
-- 🧩 Data Structure Pro - 250+ LeetCode Problem Solved
-- 👨‍💻 All of my projects are available at [COMING SOON]
-- 🚀 Built real stuff: BalanceBuddy, MiniDB
-- ⚙️ Backend - Java, Spring Boot, REST APIs, MySQL, MongoDB ,SupaBase
-- 📫 How to reach me **anujsinghsenger70@gmail.com**
-- ⚡ Fun fact **KEEP MOVING FORWARD**
+🎓 B.Tech CSE — AI Specialization 
+☕ Language - Advance Java Developer
+🧩 Data Structure Pro - 250+ LeetCode Problem Solved
+👨‍💻 All of my projects are available at [COMING SOON]
+🚀 Built real stuff: BalanceBuddy, MiniDB
+⚙️ Backend - Java, Spring Boot, REST APIs, MySQL, MongoDB ,SupaBase
+📫 How to reach me **anujsinghsenger70@gmail.com**
+⚡ Fun fact **KEEP MOVING FORWARD**
 
 <br clear="right">
 <br/>
