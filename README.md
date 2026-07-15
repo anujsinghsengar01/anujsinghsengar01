@@ -19,9 +19,10 @@
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/29/12/98/29129842108c46684a26c427741db074.gif">
 
 - 🎓 **B.Tech CSE** — AI Specialization at **GL Bajaj Institute of Technology & Management** (2024–2028)
-- ☕ **Java-first** developer — sharpened through a remote Java Development internship
-- 🧩 **250+ DSA problems** solved — building problem-solving muscle daily
-- 🚀 **Ship-first mindset** — I'd rather ship a working prototype than polish a plan. That's why most of what's below exists.
+- ☕ **Java-first** developer
+- 🧩 **250+ DSA problems** solved
+- ⚙️ **Backend-focused** — Java, Spring Boot, REST APIs, MySQL, MongoDB
+- 🚀 Built real stuff: BalanceBuddy, MiniDB
 
 <br clear="right">
 <br/>
