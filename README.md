@@ -23,14 +23,12 @@
 - 🧩 Data Structure Pro - 250+ LeetCode Problem Solved
 - 👨‍💻 All of my projects are available at [COMING SOON]
 - 🚀 Built real stuff: BalanceBuddy, MiniDB
-- ⚙️ Backend-focused — Java, Spring Boot, REST APIs, MySQL, MongoDB ,SupaBase
+- ⚙️ Backend - Java, Spring Boot, REST APIs, MySQL, MongoDB ,SupaBase
 - 📫 How to reach me **anujsinghsenger70@gmail.com**
 - ⚡ Fun fact **KEEP MOVING FORWARD**
 
 <br clear="right">
 <br/>
-
-
 ## Current Builds
 
 <table>
