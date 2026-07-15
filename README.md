@@ -13,10 +13,9 @@
 </div>
 
 <br/>
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/29/12/98/29129842108c46684a26c427741db074.gif">
 
 ## About
-
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/29/12/98/29129842108c46684a26c427741db074.gif">
 I'm a B.Tech CSE student specializing in AI at GL Bajaj Institute of Technology and Management (2024–2028). Java is my language of choice, sharpened through a remote Java Development internship, and I've worked through 250+ DSA problems along the way. I'd rather ship a working prototype than polish a plan, which is why most of what's below exists.
 
 <br/>
