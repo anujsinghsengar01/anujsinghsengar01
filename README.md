@@ -13,6 +13,7 @@
 </div>
 
 <br/>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/29/12/98/29129842108c46684a26c427741db074.gif">
 
 ## About
 
