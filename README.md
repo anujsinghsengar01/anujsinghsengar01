@@ -18,11 +18,11 @@
 
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/29/12/98/29129842108c46684a26c427741db074.gif">
 
-- 🎓 **B.Tech CSE** — AI Specialization at **GL Bajaj Institute of Technology & Management** (2024–2028)
-- ☕ **Java-first** developer
-- 🧩 **250+ DSA problems** solved
+- 🎓 **B.Tech CSE** — AI Specialization 2024-2028
+- ☕ **Java-first** - Advance developer
+- 🧩 **250+ DSA problems** - Keep Going Up.
 - ⚙️ **Backend-focused** — Java, Spring Boot, REST APIs, MySQL, MongoDB
-- 🚀 Built real stuff: BalanceBuddy, MiniDB
+- 🚀 Built real stuff: BalanceBuddy, MiniDB 
 
 <br clear="right">
 <br/>
@@ -37,7 +37,7 @@
 ### 💸 BalanceBuddy
 An expense manager with its own built-in AI — built to actually understand spending patterns, not just log them.
 
-`Java` `AI/ML`
+`Java` `AI/ML` `AI-BOT` `Design` 
 
 </td>
 <td width="50%" valign="top">
@@ -45,7 +45,7 @@ An expense manager with its own built-in AI — built to actually understand spe
 ### 🗄️ miniDB
 A database engine written from scratch, with SQL-like querying implemented at the ground level rather than wrapped around an existing engine.
 
-`Java` `Systems` `Databases`
+`Java` `Systems` `Databases` `Engine`
 
 </td>
 </tr>
@@ -57,7 +57,7 @@ A database engine written from scratch, with SQL-like querying implemented at th
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,react,mysql,mongodb,git,tensorflow,pytorch&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,js,html,react,mysql,mongodb,git,tensorflow&theme=dark" />
 
 </div>
 
