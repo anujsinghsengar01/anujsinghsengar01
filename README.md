@@ -8,7 +8,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=anujsinghsengar01&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/DSA-250%2B%20Solved-success?style=flat-square" />
+<img src="https://img.shields.io/badge/DSA-300+%2B%20Solved-success?style=flat-square" />
 
 </div>
 
