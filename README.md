@@ -2,7 +2,7 @@
 
 <h1>Anuj Singh Sengar</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%7C+AI+Specialization;Java+%7C+250%2B+DSA+Problems+Solved;Building+BalanceBuddy+%26+miniDB;Building+Real-World+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%7C+AI+Specialization;Java+%7C+300%2B+DSA+Problems+Solved;Building+BalanceBuddy+%26+miniDB;Building+Real-World+Solutions" alt="Typing SVG" />
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 - 🎓 B.Tech CSE — AI Specialization
 
-- 🧩 Data Structure - 250+ LeetCode Problem Solved
+- 🧩 Data Structure - 300+ LeetCode Problem Solved
 
 - 👨‍💻 All of my projects are available at [COMING SOON]
 
